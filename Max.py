@@ -1,5 +1,5 @@
 arr = [1,2,3,4,5,6,7,8,9,10]
 
-MaxNum = max(arr)
+result = max(arr)
 
-print(MaxNum)
+print(result)
